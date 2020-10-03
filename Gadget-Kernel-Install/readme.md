@@ -1,0 +1,1 @@
+https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/old-method

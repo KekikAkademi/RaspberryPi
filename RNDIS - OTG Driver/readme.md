@@ -1,0 +1,1 @@
+https://www.factoryforward.com/pi-zero-w-headless-setup-windows10-rndis-driver-issue-resolved/
